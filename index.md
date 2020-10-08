@@ -1,1 +1,3 @@
-[![](http://img.youtube.com/vi/bzG_J7RCGS0/0.jpg)](http://www.youtube.com/watch?v=bzG_J7RCGS0 "IINSIC")
+h1. If It's Not Scottish It's Crap!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bzG_J7RCGS0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
